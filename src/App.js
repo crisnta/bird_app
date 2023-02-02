@@ -43,7 +43,7 @@ function App() {
           </div>
         ):(
           <div className='empty'>
-            <h2>No birds found</h2>
+            <h2>No birds found.</h2>
           </div>
           )
         }
